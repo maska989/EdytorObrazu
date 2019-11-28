@@ -1,0 +1,2 @@
+# EdytorObrazu
+Skończony
